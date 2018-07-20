@@ -43,7 +43,12 @@ Seq[Any](format.raw/*3.1*/("""
   <p class="mt-5 mb-3 text-muted">&copy; 2017-2018</p>
 </form>
 
-""")))}),format.raw/*23.2*/("""
+
+
+
+<h1>hola</h1>
+
+""")))}),format.raw/*28.2*/("""
 """))
       }
     }
@@ -60,11 +65,11 @@ Seq[Any](format.raw/*3.1*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Fri Jul 20 12:06:09 PET 2018
+                  DATE: Fri Jul 20 12:21:12 PET 2018
                   SOURCE: /home/clarkprincipe/AppsBussines/app/views/index.scala.html
-                  HASH: c89c814f0266735b1e79f7abd0ae9e7874d71f9c
-                  MATRIX: 742->2|890->57|918->60|963->97|1002->99|1031->102|1110->155|1130->167|1195->212|1919->906
-                  LINES: 21->2|26->3|28->5|28->5|28->5|30->7|31->8|31->8|31->8|46->23
+                  HASH: cde09ef02f0578c3d4768c3bbd9b2cae2cb55fcb
+                  MATRIX: 742->2|890->57|918->60|963->97|1002->99|1031->102|1110->155|1130->167|1195->212|1937->924
+                  LINES: 21->2|26->3|28->5|28->5|28->5|30->7|31->8|31->8|31->8|51->28
                   -- GENERATED --
               */
           

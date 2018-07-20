@@ -1,6 +1,7 @@
 logs
 *.iml
 target
+target/
 .idea
 .idea/
 /.idea/
