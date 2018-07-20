@@ -2,6 +2,8 @@ logs
 *.iml
 target
 .idea
+.idea/
+/.idea/
 .idea_modules
 .vscode
 generated.keystore
