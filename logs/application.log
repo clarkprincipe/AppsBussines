@@ -49,3 +49,33 @@ so clearing cookies may resolve this error message.
     filters.ExampleFilter
 
 2018-07-20 09:56:55,224 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-40 - Application started (Dev)
+2018-07-20 10:23:15,160 [INFO] from application in application-akka.actor.default-dispatcher-10 - ApplicationTimer demo: Stopping application at 2018-07-20T15:23:15.160Z after 1580s.
+2018-07-20 10:23:15,283 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-65 - ApplicationTimer demo: Starting application at 2018-07-20T15:23:15.282Z.
+2018-07-20 10:23:15,338 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-65 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    filters.ExampleFilter
+
+2018-07-20 10:23:15,339 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-65 - Application started (Dev)
+2018-07-20 10:28:00,258 [INFO] from application in application-akka.actor.default-dispatcher-6 - ApplicationTimer demo: Stopping application at 2018-07-20T15:28:00.257Z after 285s.
+2018-07-20 10:28:00,352 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-66 - ApplicationTimer demo: Starting application at 2018-07-20T15:28:00.351Z.
+2018-07-20 10:28:00,389 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-66 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    filters.ExampleFilter
+
+2018-07-20 10:28:00,390 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-66 - Application started (Dev)
+2018-07-20 10:28:30,280 [INFO] from application in application-akka.actor.default-dispatcher-6 - ApplicationTimer demo: Stopping application at 2018-07-20T15:28:30.280Z after 30s.
+2018-07-20 10:28:30,349 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-120 - ApplicationTimer demo: Starting application at 2018-07-20T15:28:30.348Z.
+2018-07-20 10:28:30,379 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-120 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    filters.ExampleFilter
+
+2018-07-20 10:28:30,379 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-120 - Application started (Dev)
