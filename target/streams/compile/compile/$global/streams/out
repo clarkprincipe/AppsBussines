@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/clarkprincipe/AppsBussines/app/views/index.scala.html:1:26: not found: value assetsFinder[0m
+[0m[[0m[31merror[0m] [0m[0m@main("Welcome to Play", assetsFinder) {[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/clarkprincipe/AppsBussines/app/views/index.scala.html:4:27: not found: value assetsFinder[0m
+[0m[[0m[31merror[0m] [0m[0m  <img class="mb-4" src="@assetsFinder.path("images/bootstrap/bootstrap-solid.svg")" alt="" width="72" height="72">[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
