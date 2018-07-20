@@ -3,6 +3,8 @@ stormsend-server/src/main/scripts/local_mongodump.sh
 target/
 project/project
 project/target
+project/project/
+project/target/
 *.log
 logs
 integration_test/
